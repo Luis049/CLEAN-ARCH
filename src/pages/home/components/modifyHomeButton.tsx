@@ -7,7 +7,7 @@ const ModifyHomeButton = () => {
     const dispatch = useDispatch();
 
     const dispatchAction = () => {
-    dispatch(modifyUser({ name: 'Gletleman'}));
+    dispatch(modifyUser({ name: 'Gentleman'}));
   };
 
 

@@ -1,8 +1,10 @@
 import styled from 'styled-components';
 
-export const Layout = styled.h1`
-  color: red;
-  font-size: 3rem;
+export const Layout = styled.div`
+  padding: 30px;
+  backgruond: #fafafa;
+  color: #333;
+  font-size: 16px;
 `;
 
 
